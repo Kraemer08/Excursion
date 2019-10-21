@@ -18,3 +18,22 @@ h1 {
 	position: relative;
 	top: 4px;
 }
+
+h2 {
+	font-weight: 300;
+	font-size: 2.625rem;
+	color: white;
+}
+
+h3 {
+	color: grey;
+	font-size: 1.31rem;
+	font-weight: 300;
+}
+
+h4 {
+	color: gray;
+	text-align: right;
+	font-weight: 300;
+	font-size: 1.31rem;
+}
